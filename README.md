@@ -1,4 +1,4 @@
 # hc4tsc-via-hdc_ssf
-Generating Hierarchical Structures for Improved Time Series Classification Using Stochastic Splitting Functions
+Stochastic Splitting Functions for Hierarchy Generation
 
-This work has been submitted to Expert Systems with Applications. Source code will be available upon acceptance.
+This work has been submitted for publication. Source code will be available upon acceptance.
